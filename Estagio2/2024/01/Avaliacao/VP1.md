@@ -14,6 +14,9 @@
 - Acesse o arquivo **EstagiosUni7\Estagio1\2023\02\Alunos\README.md** e adicione o seu nome com o nome do projeto: "Meu nome é:"+`<seu nome completo>`-` Link do projeto:<link do projeto no github>`
 - Veja qual é o segundo comentário (histórico) que existe no arquivo README.md do repositório.
   R:
+  - Segundo comentário:<Modelo de requisitos>
+  - link do projeto<- Meu nome é: <Matheus Lemos>.
+  - link do projeto: <https://github.com/mtlem/WorldBuilding> >
 
 ### **Questão 2.** Github
 
@@ -28,14 +31,19 @@
   6. #### Arquitetura
   7. #### Configuração Ambiente
 
+  R: Feito
+
 ### **Questão 3.** Scrum
 
 - Crie no gitbub um kanban para o seu projeto;
 - Crie os itens de backlog no seu kanban.
 
+  R: Feito
+
 ### **Questão 4.** Arquitetura
 
 * Crie o esqueleto do projeto;
+  R: Feito
 
 **MISSÃO INSTITUCIONAL**
 
