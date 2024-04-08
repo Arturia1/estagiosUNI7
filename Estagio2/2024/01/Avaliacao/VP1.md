@@ -15,7 +15,7 @@
 - Veja qual é o segundo comentário (histórico) que existe no arquivo README.md do repositório.
   R:
   - Segundo comentário:<Modelo de requisitos>
-  - link do projeto<- Meu nome é: <Matheus Lemos>.
+  - link do projeto<Meu nome é: <Matheus Lemos>.
   - link do projeto: <https://github.com/mtlem/WorldBuilding> >
 
 ### **Questão 2.** Github
