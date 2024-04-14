@@ -1,7 +1,7 @@
 | ![1694295403479](image/1694295403479.png) | **CENTRO UNIVERSITÁRIO SETE DE SETEMBRO**  <br />CURSO DE GRADUAÇÃO EM SISTEMAS DE INFORMAÇÃO   <br />1ª AVALIAÇÃO  | ![1694295411069](image/1694295411069.png) |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 
-| **ALUNO:**      |                               | **MATRÍCULA:**       |            |
+| **ALUNO:**      | Melissa Viana                 | **MATRÍCULA:**       | 56008907   |
 | :-------------------- | ----------------------------- | :-------------------------- | ---------- |
 | **DISCIPLINA:** | Estágio 2                    | **DATA DA PROVA:**    | 08/04/2024 |
 | **PROFESSOR:**  | Marcelo Bezerra de Alcântara | **TIPO DE PROVA:**    | Online     |
@@ -10,17 +10,17 @@
 
 ### **Questão 1.** Controle de versão - GIT
 
-- Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova.
+- Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova. - Ok
 - Acesse o arquivo **EstagiosUni7\Estagio1\2023\02\Alunos\README.md** e adicione o seu nome com o nome do projeto: "Meu nome é:"+`<seu nome completo>`-` Link do projeto:<link do projeto no github>`
+  OK
 - Veja qual é o segundo comentário (histórico) que existe no arquivo README.md do repositório.
-  R:
-  - Segundo comentário:Modelo de requisitos
-  - link do projeto<Meu nome é: Matheus Lemos.
-  - link do projeto: <https://github.com/mtlem/WorldBuilding> >
+  da9df66c815e0a1e55a5a35d9177d42432e59684 - Primeiro commit
+- OK
 
 ### **Questão 2.** Github
 
 - Crie um repositório no github com nome do seu projeto;
+  OK
 - Crie um arquivo README.md com os seguintes tópicos:
 
   1. #### Objetivo
@@ -31,19 +31,19 @@
   6. #### Arquitetura
   7. #### Configuração Ambiente
 
-  R: Feito
+  OK - (Removi Partes Interessadas porque acredito que não se aplica).
 
 ### **Questão 3.** Scrum
 
 - Crie no gitbub um kanban para o seu projeto;
+  OK
 - Crie os itens de backlog no seu kanban.
-
-  R: Feito
+  OK
 
 ### **Questão 4.** Arquitetura
 
 * Crie o esqueleto do projeto;
-  R: Feito
+  OK
 
 **MISSÃO INSTITUCIONAL**
 
